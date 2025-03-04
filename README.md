@@ -18,4 +18,4 @@ BUZZER OUTPUT
 
 The device might also have an Buzzer Output, like bone conduction or a small speaker, to provide beep sound for the alert of the wearer person.
 
-The goal of the Third Eye Glove is to empower blind individuals with improved spatial awareness and navigation capabilities, ultimately enhancing their independence and mobility. Keep in mind that technological advancements and the development of such devices may have occurred since my last update in September 2021.
+The goal of the Third Eye Glove is to empower blind individuals with improved spatial awareness and navigation capabilities, ultimately enhancing their independence and mobility. Keep in mind that technological advancements and the development of such devices may have occurred since my last update in September 2021..
